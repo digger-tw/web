@@ -1,0 +1,77 @@
+@charset "utf-8";
+#header {
+	margin: auto;
+	height: 205px;
+	width: 980px;
+	position: relative;
+}
+#contianer {
+	background-image: url(photo/main_bg.gif);
+	background-repeat: repeat-y;
+	margin: auto;
+	width: 952px;
+	text-align: left;
+}
+#logo {
+	background-image: url(photo/image004.jpg);
+	height: 205px;
+	width: 216px;
+}
+#logo {
+	float: left;
+	height: 205px;
+	width: 216px;
+}
+
+
+#containerTop {
+	background-image: url(photo/main_top.gif);
+	background-repeat: no-repeat;
+	height: 30px;
+}
+#containerBottom {
+	background-image: url(photo/main_bottom.gif);
+	background-repeat: no-repeat;
+	height: 34px;
+}
+#sidebar1 {
+	float: left;
+	width: 216px;
+	text-align: center;
+}
+#footer {
+	background-color: #F7F7F7;
+	text-align: center;
+	padding: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #E6E6E3;
+	border-bottom-color: #E6E6E3;
+}
+body,td,th {
+	font-family: "新細明體";
+	font-size: 12px;
+	color: #666;
+	text-align: left;
+}
+body {
+	background-image: url(photo/topbg.png);
+	background-repeat: repeat-x;
+	font-family: "新細明體";
+	font-size: 12px;
+	line-height: 160%;
+	color: #666;
+	text-decoration: none;
+	background-color: #FFF;
+	background-position: left top;
+	margin: 0px;
+	padding: 0px;
+}
+.photo04 {
+	float: left;
+	margin-right: 20px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
